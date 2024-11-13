@@ -1,5 +1,3 @@
-package main.java;
-
 public class task1_1 {
     public static int convertAndSum(String[] strings) {
         int sum = 0;
