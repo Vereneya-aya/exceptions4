@@ -1,3 +1,4 @@
+/*/Users/veranikalis/Desktop/exceptions3/homework1_2/src/main/java*/
 public class task1_1 {
     public static int convertAndSum(String[] strings) {
         int sum = 0;
